@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('Portfolio của Nguyễn Thịnh Toàn đã sẵn sàng!');
+    console.log('Portfolio của Nguyễn Tấn Tài đã sẵn sàng!');
 
     // Hiệu ứng chạy thanh tiến độ (Skills)
     const progressBars = document.querySelectorAll('.progress');
